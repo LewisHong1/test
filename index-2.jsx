@@ -1,4 +1,4 @@
-import React, {PureComponent} from 'react';//123
+import React, {PureComponent} from 'react';//123456
 import {connect} from 'dva';
 import {Breadcrumb, Button, Card, Col, DatePicker, Form, Radio, Row, Select, Table} from 'antd';
 import moment from 'moment'
